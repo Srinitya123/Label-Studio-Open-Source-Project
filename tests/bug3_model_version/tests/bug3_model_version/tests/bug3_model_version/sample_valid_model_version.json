@@ -1,0 +1,13 @@
+[
+  {
+    "data": {
+      "text": "This is a sample task"
+    },
+    "predictions": [
+      {
+        "model_version": "test-model-v1",
+        "result": []
+      }
+    ]
+  }
+]
