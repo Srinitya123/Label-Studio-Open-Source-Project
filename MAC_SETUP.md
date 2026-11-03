@@ -10,7 +10,7 @@
 
 # Using Poetry
 ```bash
-cd ~/Desktop/CSSE-566/label_studio
+
 poetry install
 poetry run python manage.py runserver
 ```
@@ -28,17 +28,13 @@ poetry run python manage.py runserver
 # Frontend Setup
 
 ```bash
-cd ~/Desktop/CSSE-566/web
+
 npm install --legacy-peer-deps
 npm run ls:dev
 ```
 
 Server runs on: `http://localhost:8010/`
 
-# Project Structure
-- Main repo: `~/Desktop/CSSE-566`
-- Backend: `~/Desktop/CSSE-566/label_studio`
-- Frontend: `~/Desktop/CSSE-566/web`
 
 # Important Notes
 - Use `poetry` instead of `pip` for package management
