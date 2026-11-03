@@ -11,6 +11,10 @@
 
 Label Studio Enhanced is a set of targeted contributions to the open-source Label Studio annotation platform. These changes address bugs, usability gaps, and documentation issues identified through hands-on use and GitHub issue analysis. All changes are backward-compatible with Label Studio v1.23.0.
 
+---
+
+***
+This was a group project completed as part of the CSS 566: Software Management course at the University of Washington Bothell (UWB), in collaboration with teammates NityaSree and Deen.
 
 ---
 
@@ -186,8 +190,6 @@ The README has been updated with Mac-specific setup instructions, a corrected Po
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/dbg9180-cmd/CSSE-566.git
-cd CSSE-566
 
 # 2. Install Python 3.11 via Homebrew
 brew install python@3.11
@@ -233,4 +235,5 @@ Open http://127.0.0.1:8080 in your browser.
 - Label Studio GitHub: https://github.com/HumanSignal/label-studio
 - GitHub Issue #9717 (Predictions Deletion): https://github.com/HumanSignal/label-studio/issues/9717
 - GitHub Issue #9697 (Keyboard Shortcuts): https://github.com/HumanSignal/label-studio/issues/9697
-- Team Repository: https://github.com/dbg9180-cmd/CSSE-566
+
+
